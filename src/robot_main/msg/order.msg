@@ -1,0 +1,2 @@
+int32 target_coordinate_x
+int32 target_coordinate_y

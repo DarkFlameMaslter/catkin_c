@@ -1,0 +1,2 @@
+communication_demo:keyboard_control:robot_main:sensors_report:user_order
+-DCATKIN_DEVEL_PREFIX=/home/darkflamemalster/catkin_c/devel -DCMAKE_INSTALL_PREFIX=/home/darkflamemalster/catkin_c/install -G Unix Makefiles
